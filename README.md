@@ -1,2 +1,1 @@
-# 2022-P1
-2022-P1
+# CS101 Project - Spring 2022
